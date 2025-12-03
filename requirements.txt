@@ -1,0 +1,15 @@
+streamlit==1.51.0
+python-dotenv==1.0.1
+openai==1.59.4
+requests==2.32.5
+
+# Dependências de suporte (instaladas pelo Streamlit, mas úteis para garantir estabilidade)
+pandas==2.3.3
+numpy==2.3.5
+pyarrow==21.0.0
+pillow==12.0.0
+jinja2==3.1.6
+tornado==6.5.2
+watchdog==6.0.0
+altair==5.5.0
+

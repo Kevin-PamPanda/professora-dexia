@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit / temp
+*/.streamlit/
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Configs sensíveis
+.env
+
+# VSCode
+.vscode/
+
+# Sistema
+Thumbs.db
+.DS_Store
